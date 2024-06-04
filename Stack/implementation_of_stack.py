@@ -3,7 +3,7 @@
 @Date: 2021-02-11 18:00:30
 @Last Modified by: Author Name
 @Last Modified time: 2021-02-11 18:00:30
-@Title : Implemention of stack data structure
+@Title : Implementation of stack data structure
 '''
 # satck is  linear data structure  first in last out or last in first out LIFO
 """ Stack real lif application is 
